@@ -3,6 +3,8 @@
 
 Light gun modification from NES (Famicom and others) for PC NES emulators (FCEUX).
 
+[![](https://user-images.githubusercontent.com/9499881/212734602-05fe86a4-f981-49e0-bcda-7e930fe3c7f1.gif)](https://youtu.be/HwHkjYlQwL0)
+
 ## What will need:
 1. Light Gun for the NES.
 2. 4.7k Ohm resistor.

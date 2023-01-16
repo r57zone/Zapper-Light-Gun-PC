@@ -3,6 +3,8 @@
 
 Модификация светового пистолета от Денди (Famicom и других) для ПК эмуляторов NES (FCEUX).
 
+[![](https://user-images.githubusercontent.com/9499881/212734602-05fe86a4-f981-49e0-bcda-7e930fe3c7f1.gif)](https://youtu.be/HwHkjYlQwL0)
+
 ## Что понадобится:
 1. Световой пистолет для Денди. Можно приобрести на AliExpress или Ozon.
 2. Резистор на 4.7 кОм.
