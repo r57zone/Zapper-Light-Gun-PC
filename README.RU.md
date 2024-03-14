@@ -27,7 +27,7 @@
 ## Прошивка Digispark
 1. Загрузите [Arduino IDE](https://www.arduino.cc/en/software) и распакуйте.
 2. Установите последние [драйверы Digispark](https://github.com/digistump/DigistumpArduino/releases/) ("Digistump.Drivers.zip").
-3. Запустите Arduino IDE, перейдите в настройки и добавьте `http://digistump.com/package_digistump_index.json` в поле "Дополнителньые ссылки для менеджера плат" и нажмите "ОК".
+3. Запустите Arduino IDE, перейдите в настройки и добавьте `https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json` в поле "Дополнителньые ссылки для менеджера плат" и нажмите "ОК".
 4. Перейдите в "Инструменты" -> "Плата" -> "Менеджер плат", введите в поиске `Digistump AVR boards` и установите.
 5. Скопируйте [содержимое прошивки](https://github.com/r57zone/Zapper-Light-Gun-PC/blob/master/Firmware/DigisparkLightGun.ino), вставьте в Arduino IDE и нажмите кнопку "Вгрузить".
 6. Подключите плату Digispark в течении минуты или нажмите кнопку загрузки снова. Digispark прошивается сразу после подключения (нужно перевтыкать для перепрошивки).
