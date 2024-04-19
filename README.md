@@ -34,7 +34,7 @@ For Zapper will also need the [following](https://twitter.com/eNuffGs/status/104
 3. Launch the Arduino IDE, go to settings, and add `https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json` in the "Additional links for the board manager" field and click "OK".
 4. Go to "Tools" -> "Board" -> "Board Manager", enter in the search `Digistump AVR boards` and install it.
 5. Copy [firmware contents](https://github.com/r57zone/Zapper-Light-Gun-PC/blob/master/Firmware/DigisparkLightGun.ino), insert it into the Arduino IDE and click the "Upload" button.
-6. Connect the Digispark board within a minute or press the Upload button again. Digispark is flashed immediately after connection (need to re-plug it for flashing).
+6. Connect the Digispark board after pressing the firmware button. Digispark is flashed immediately after connection (you need to re-plug it to flash it).
 
 ## Configuring FCEUX
 1. Download [FCEUX](https://fceux.com/web/download.html) and unpack it ("FCEUX 2.3.0 win32 Binary").
